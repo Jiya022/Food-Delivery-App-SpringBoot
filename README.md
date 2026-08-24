@@ -24,9 +24,6 @@ It provides REST APIs for handling users, restaurants, menus, and orders.
 
 ## Project Structure
 
-
-## Project Structure
-
 ```bash
 src/
 ├── main/
